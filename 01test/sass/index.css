@@ -1,0 +1,20 @@
+div {
+  font-size: 20px;
+}
+div {
+  color: #ccc;
+}
+div {
+  position: absolute;
+  left: 0;
+  top: 0;
+	bottom: 0;
+	
+  right: 0;
+  margin: auto;
+  background: #ccc;
+  font-size: 100px;
+}
+div span {
+  color: #000;
+}
